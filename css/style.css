@@ -206,11 +206,12 @@ p {
   margin-top: -212px;
   text-align: center;
 }
+/* Heading font size */
 #fh5co-home .flexslider .fh5co-text h1 {
   margin: 0;
   padding: 0;
   font-family: "Playfair Display", serif;
-  font-size: 300px;
+  font-size: 150px;
   font-weight: 700;
   font-style: italic;
   color: #fff;
@@ -555,7 +556,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0103-served-plate_64.png) no-repeat;
+  background: url(../images/actor.png) no-repeat;
   top: 0;
   left: 50%;
   margin-top: -50px;
